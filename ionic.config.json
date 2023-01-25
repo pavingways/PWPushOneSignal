@@ -1,0 +1,7 @@
+{
+  "name": "PWPushOneSignal",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
